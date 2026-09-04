@@ -1,0 +1,15 @@
+1. PostgreSQL
+
+PostgreSQL is a relational database that stores data in tables with rows and columns. It is useful when data has a clear structure and relationships between tables. I found it easy to create a database and table using SQL commands.
+
+2. Redis
+
+Redis is an in-memory key-value database that is very fast. It is useful for caching, temporary data, and applications that need quick access to information. I tested it by storing and retrieving a greeting and setting an expiry time.
+
+3. MongoDB
+
+MongoDB is a NoSQL database that stores data as documents. It is useful when data needs a flexible structure that can change easily. I created a students collection and stored Alice's information as a document.
+
+Final comparison
+
+PostgreSQL is best when structured relational data and relationships are important. Redis is best when very fast access to temporary or frequently used data is needed. MongoDB is best when flexible document-based data is required.
