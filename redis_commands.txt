@@ -1,0 +1,5 @@
+PING
+SET greeting "Hello from Redis"
+GET greeting
+SET temp "expires soon" EX 10
+TTL temp
